@@ -8,7 +8,7 @@
   "name": "University of Learnings",
   "url": "https://app.certyza.com",
   "introductionURL": "https://app.certyza.com/intro/",
-  "revocationList": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/revocation-eth.json",
+  "revocationList": "https://raw.githubusercontent.com/lalitkumar2k10/certyza_issuer/master/revocation.json",
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:n45DrKj8anHVybd8QPmGPxKpPB8tZ1oSXx",
