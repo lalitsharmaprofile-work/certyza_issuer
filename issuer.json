@@ -3,7 +3,7 @@
 "id": "https://app.certyza.com//issuer/issuer.json",
 "name": "Liberty Hospital Labs",
 "url": "https://app.certyza.com",
-"introductionURL": "http://app.certyza.com:8069/intro/",
+"introductionURL": "https://app.certyza.com/intro/",
 "introductionAuthenticationMethod": "none",
 "publicKey": [
     {
