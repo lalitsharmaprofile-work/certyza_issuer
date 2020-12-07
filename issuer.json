@@ -11,7 +11,7 @@
   "revocationList": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/revocation-eth.json",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:pubkey:n45DrKj8anHVybd8QPmGPxKpPB8tZ1oSXx",
+      "id": "ecdsa-koblitz-pubkey:n45DrKj8anHVybd8QPmGPxKpPB8tZ1oSXx",
       "created: "2020-12-06T14:48:03.814936+00:00"
     }
   ],
