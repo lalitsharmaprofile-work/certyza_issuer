@@ -5,7 +5,7 @@
   ],
   "type": "Profile",
   "id": "https://raw.githubusercontent.com/lalitkumar2k10/certyza_issuer/master/issuer.json",
-  "name": "University of Learning",
+  "name": "University of Learnings",
   "url": "https://app.certyza.com",
   "introductionURL": "https://app.certyza.com/intro/",
   "revocationList": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/revocation-eth.json",
