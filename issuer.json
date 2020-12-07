@@ -7,8 +7,8 @@
 "introductionAuthenticationMethod": "none",
 "publicKey": [
     {
-    "id": "ecdsa-koblitz-pubkey:0x812811b9910D17DFad1e02486f20dA1fb210129F",
-    "created": "2017-06-29T14:48:03.814936+00:00"
+    "id": "ecdsa-koblitz-pubkey:n45DrKj8anHVybd8QPmGPxKpPB8tZ1oSXx",
+    "created": "2021-06-29T14:48:03.814936+00:00"
     }
 ],
 "revocationList": "https://www.blockcerts.org/samples/2.0/revocation-list-testnet.json",
