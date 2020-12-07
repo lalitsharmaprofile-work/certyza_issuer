@@ -1,8 +1,8 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/revocation-eth.json?raw=true",
+  "id": "https://raw.githubusercontent.com/lalitkumar2k10/certyza_issuer/master/revocation.json?raw=true",
   "type": "RevocationList",
-  "issuer": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/issuer-eth.json?raw=true",
+  "issuer": "https://raw.githubusercontent.com/lalitkumar2k10/certyza_issuer/master/issuer.json?raw=true",
   "revokedAssertions": [
     {
       "id": "urn:uuid:3bc1a96a-3501-46ed-8f75-49612bbac257",
