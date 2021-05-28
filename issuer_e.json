@@ -11,7 +11,7 @@
   "revocationList": "https://raw.githubusercontent.com/lalitkumar2k10/certyza_issuer/master/revocation_e.json",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:n45DrKj8anHVybd8QPmGPxKpPB8tZ1oSXx",
+      "id": "ecdsa-koblitz-pubkey:0x57a883c4900180E4a483F3557B372447C4DC4F08",
       "created": "2020-12-06T14:48:03.814936+00:00"
     }
   ],
