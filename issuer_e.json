@@ -4,11 +4,11 @@
     "https://w3id.org/blockcerts/v2"
   ],
   "type": "Profile",
-  "id": "https://raw.githubusercontent.com/lalitkumar2k10/certyza_issuer/master/issuer_e.json",
+  "id": "https://raw.githubusercontent.com/lalitsharmaprofile-work/certyza_issuer/master/issuer_e.json",
   "name": "University of Learning",
   "url": "https://app.certyza.com",
   "introductionURL": "https://app.certyza.com/intro/",
-  "revocationList": "https://raw.githubusercontent.com/lalitkumar2k10/certyza_issuer/master/revocation_e.json",
+  "revocationList": "https://raw.githubusercontent.com/lalitsharmaprofile-work/certyza_issuer/master/revocation_e.json",
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x57a883c4900180E4a483F3557B372447C4DC4F08",
